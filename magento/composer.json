@@ -19,7 +19,7 @@
   "require": {
     "composer/composer": "@alpha",
     "magento/magento-composer-installer": "*",
-    "magento/product-enterprise-edition": "2.3.*",
+    "magento/product-enterprise-edition": "2.3.0",
     "echoecho/magento-2-module-example": "dev-master"
   },
   "require-dev": {
